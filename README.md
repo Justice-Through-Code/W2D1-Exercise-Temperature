@@ -1,6 +1,6 @@
 # Temperature Conversion
 
-## W2D1 Exercise Temperature Conversion
+## W2D2 Exercise Temperature Conversion
 
 ### Estimated Time to Complete
 
